@@ -16,7 +16,7 @@
     "nextra-theme-docs": "^2.0.0-alpha.16",
     "prism-react-renderer": "^1.2.1",
     "prismjs": "^1.26.0",
-    "react": "^17.0.2",
+    "react": "^18.2.0",
     "react-dom": "^17.0.2",
     "react-copy-to-clipboard": "^5.0.4",
     "react-hot-toast": "^2.2.0",
