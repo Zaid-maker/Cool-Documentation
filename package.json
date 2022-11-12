@@ -27,7 +27,7 @@
   "devDependencies": {
     "@heroicons/react": "^1.0.5",
     "@typescript-eslint/eslint-plugin": "latest",
-    "@typescript-eslint/parser": "latest",
+    "@typescript-eslint/parser": "^5.42.1",
     "autoprefixer": "^10.4.2",
     "copy-to-clipboard": "^3.3.1",
     "eslint": "latest",
