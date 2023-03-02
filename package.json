@@ -10,7 +10,7 @@
     "@geist-ui/react-icons": "^1.0.1",
     "eslint-plugin-react": "latest",
     "eslint-plugin-react-hooks": "latest",
-    "eslint-plugin-tailwindcss": "latest",
+    "eslint-plugin-tailwindcss": "^3.10.1",
     "next": "^12.0.8",
     "nextra": "^2.0.0-alpha.16",
     "nextra-theme-docs": "^2.0.0-alpha.16",
