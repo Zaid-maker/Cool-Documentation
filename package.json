@@ -33,7 +33,7 @@
     "eslint": "latest",
     "eslint-config-next": "latest",
     "eslint-config-prettier": "latest",
-    "postcss": "^8.4.5",
+    "postcss": "^8.4.31",
     "prettier": "^2.0.5"
   }
 }
