@@ -11,7 +11,7 @@
     "eslint-plugin-react": "latest",
     "eslint-plugin-react-hooks": "latest",
     "eslint-plugin-tailwindcss": "latest",
-    "next": "^12.0.8",
+    "next": "^13.5.5",
     "nextra": "^2.0.0-alpha.16",
     "nextra-theme-docs": "^2.0.0-alpha.16",
     "prism-react-renderer": "^1.2.1",
@@ -31,7 +31,7 @@
     "autoprefixer": "^10.4.2",
     "copy-to-clipboard": "^3.3.1",
     "eslint": "latest",
-    "eslint-config-next": "latest",
+    "eslint-config-next": "^13.5.5",
     "eslint-config-prettier": "latest",
     "postcss": "^8.4.5",
     "prettier": "^2.0.5"
